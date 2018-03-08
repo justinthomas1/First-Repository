@@ -1,4 +1,1 @@
-# O-hai
-Teh f1rst repository EVAR!!!
-
-So see, like, I has a cheezburger an stuff.
+This repository was the first one I made. It has no other purpose than nostialgia.
